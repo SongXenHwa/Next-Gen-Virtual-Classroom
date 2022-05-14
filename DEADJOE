@@ -1,0 +1,41 @@
+
+<<<<<<< HEAD
+*** These modified files were found in JOE when it aborted on Tue Aug 17 15:58:15 2021
+*** JOE was aborted because the terminal closed
+
+*** File '/home/student/Desktop/zoomkiller/zoomkillerprivate/.git/config'
+=======
+*** These modified files were found in JOE when it aborted on Tue Aug 17 18:13:47 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/student/Desktop/zoomkillerprivate/.git/COMMIT_EDITMSG'
+Adding microphone audio for screen sharing
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   client/src/app-bundle.js
+#	modified:   client/srcmain.js
+
+*** File '(Unnamed)'
+.bashrc
+.bashrc
+.bashrc
+.bashrc
+.bashrc
+.bashrc
+fit-vm-version
+run-mars
+run-mars
+run-acs
+/home/student/Desktop/zoomkillerprivate/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+>>>>>>> ad1875e269183fa7d6fbc64630b4b95c71bf18ee
