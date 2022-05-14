@@ -58,3 +58,5 @@ STEP 2:
 STEP 3: 
 `sudo n stable`
 
+
+For a more detailed user guide, please refer to the pdf avalable!
